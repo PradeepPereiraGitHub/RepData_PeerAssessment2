@@ -1,7 +1,7 @@
 # Reproducible Research: Peer Assessment 2
 By Pradeep Pereira  
 Saturday, March 21, 2015  
-## Title: Analysis of Storm Data(NOAA) In U.S.A: The Effect of Severe Weather EVents on Health and Economy in Local Communities
+## Title: Analysis of Storm Data(NOAA) In U.S.A: The Effect of Severe Weather Events on Health and Economy in Local Communities
 
 
 ## Synopsis: 
